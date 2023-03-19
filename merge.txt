@@ -1,7 +1,11 @@
  lets check how merge fucntion works
-<<<<<<< HEAD
+
 
 it will be very interesting to know
-=======
+
 changes done in merge branch feature branch
->>>>>>> merge
+
+
+
+now conflict concept need to be cleared
+
