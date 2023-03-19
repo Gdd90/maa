@@ -1,2 +1,3 @@
  lets check how merge fucntion works
 changes done in merge branch feature branch
+now conflict concept need to be cleared
